@@ -12,6 +12,7 @@ header {
 
 main {
   flex-flow: row wrap;
+  justify-content: center;
   flex-direction: column;
   background-color: #92C9D5;
   width: 100%;
